@@ -11,21 +11,9 @@ Take a photo of a wall with paint and see potential shade matches from different
 - TypeScript
 - Shadcn/UI
 - Next.js
-- Python
-- OpenCV
-- Hugging Face
-
-### 🔧How to Run the App
-
-```bash
-git clone https://github.com/ummagohil/wall-colour-spaces-be.git
-```
-```bash
-git clone https://github.com/ummagohil/wall-colour-spaces-fe.git
-```
-
+  
 ### 👀View App
-https://wall-colour-spaces.vercel.app/
+[wall colour paint detector tool](https://uk-paint-colour-detector.vercel.app/)
 
-### 💭Future Improvements
-[tbc]
+### 🗒️Notes
+This is not an open source project, however if you want to contribute or have any questions please reach out to me at hello@umma.dev

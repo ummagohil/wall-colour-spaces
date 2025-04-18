@@ -11,9 +11,13 @@ Take a photo of a wall with paint and see potential shade matches from different
 - TypeScript
 - Shadcn/UI
 - Next.js
+
+### 💻 Code
+
+[wall colour paint detector tool code](https://github.com/ummagohil/colour-paint-detection-tool-code)
   
 ### 👀View App
 [wall colour paint detector tool](https://uk-paint-colour-detector.vercel.app/)
 
 ### 🗒️Notes
-This is not an open source project, however if you want to contribute or have any questions please reach out to me at hello@umma.dev
+hello@umma.dev
